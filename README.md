@@ -1,7 +1,7 @@
 # UAS Android-Mobile
 
 # Tugas Proyek UAS dari pertemuan ke 1 hingga ke 15
-###  Ini adalah aplikasi yang dibuat dengan materi dari pertemuan satu sampai pertemuan 15 saat ini. Aplikasi ini terdiri dari tampilan splash screen yang langsung ke tampilan menu yang berisi  fibonacci , scroll sianida , panggil maps ,panggil alarm, 2 layout , tampilan hallo , sambungan telepon dan movie menggunakan fragment
+####  Ini adalah aplikasi yang dibuat dengan materi dari pertemuan satu sampai pertemuan 15 saat ini. Aplikasi ini terdiri dari tampilan splash screen yang langsung ke tampilan menu yang berisi  fibonacci , scroll sianida , panggil maps ,panggil alarm, 2 layout , tampilan hallo , sambungan telepon dan movie menggunakan fragment
 
 ## Hasil Proyek
 
